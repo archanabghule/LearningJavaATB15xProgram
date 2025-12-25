@@ -1,4 +1,4 @@
-package ex_02_java_Basics.ex_02_java_Basics;
+package ex_02_java_Basics;
 
 public class Lab016_Variables {
     //i want to age of person

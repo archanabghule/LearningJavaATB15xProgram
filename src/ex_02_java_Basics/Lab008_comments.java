@@ -1,4 +1,4 @@
-package ex_02_java_Basics.ex_02_java_Basics;
+package ex_02_java_Basics;
 
 /**
  * Author : promod Dutta
@@ -6,7 +6,7 @@ package ex_02_java_Basics.ex_02_java_Basics;
  * Learning : Java
 **/
 
-public class Lab006_comments {
+public class Lab008_comments {
     /**
      * below is main method
      **/
